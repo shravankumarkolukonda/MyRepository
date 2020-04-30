@@ -1,0 +1,6 @@
+prime number
+A prime number is a number which is divisible by itself or one.
+ for example 7 is prime number.
+    
+ 
+    
